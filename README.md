@@ -23,4 +23,9 @@ WHERE CONDITION = MET
 
 ```
 
+![](olubk.JPG)
 
+|NAME| GENDER| AGE|
+|---------| ---------| ---------|
+|BUKOLA| FEMALE| 33|
+|BANKE| FEMALE| 28|
