@@ -7,8 +7,8 @@ This data analysis aims to generate insights into how Automobiles have evolved o
 The primary sources of data i.e. where the data were derived from e.g websites, search engines like google, and/or any other repository site.
 
 ## Tools Used
--Ms Excel
--Microsoft Power BI
--Python 
--SQL
+- Ms Excel
+- Microsoft Power BI
+- Python 
+- SQL
 
